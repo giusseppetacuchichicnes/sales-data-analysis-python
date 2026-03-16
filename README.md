@@ -1,4 +1,4 @@
-# Análisis de Datos de Ventas con Python
+# Análisis de Datos de Ventas
 
 ## Descripción del Proyecto
 Este proyecto realiza un análisis de un conjunto de datos de ventas con el objetivo de identificar tendencias, productos más vendidos, desempeño de tiendas y comportamiento de las ventas a lo largo del tiempo.  
