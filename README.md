@@ -52,7 +52,7 @@ Ticket promedio por venta: S/ 4,070.29
 - El Puzzle 1000 piezas es el producto que más ingresos genera (S/ 127,851.96), aunque no es el más vendido en unidades.
 - Algunos productos con muchas unidades vendidas (Cafetera Delonghi, Perfume Dior) generan ingresos menores.
 
-## Recomendación
+Recomendación
 Priorizar marketing y stock en productos que generan más ingresos, no solo en los más vendidos por cantidad.
 
 
@@ -66,7 +66,7 @@ Priorizar marketing y stock en productos que generan más ingresos, no solo en l
 | B      | S/ 384,941.41 |
 | C      | S/ 331,483.41 |
 
-## Recomendación:
+Recomendación:
 Analizar estrategias de la Tienda E para replicarlas en tiendas con menor desempeño (C y B).
 
 
@@ -74,7 +74,7 @@ Analizar estrategias de la Tienda E para replicarlas en tiendas con menor desemp
 José (S/ 293,871.59) y Pedro (S/ 291,807.96) lideran ventas.
 Rosa (S/ 188,165.30) tiene menor rendimiento.
 
-## Recomendación:
+Recomendación:
 - Capacitación y seguimiento a vendedores con bajo desempeño.
 - Incentivos por metas para mejorar resultados individuales.
 
@@ -86,12 +86,10 @@ Rosa (S/ 188,165.30) tiene menor rendimiento.
 | 2    | S/ 221,013.98                |
 | 6–12 | S/ 96,956.75 – S/ 143,129.23 |
 
-## Insight:
-
+Insight:
 Hay estacionalidad clara: caída de ventas de junio a diciembre.
 
-## Recomendación:
-
+Recomendación:
 Implementar campañas promocionales en meses de baja demanda.
 
 ## 6. Rendimiento por Categoria
@@ -105,8 +103,7 @@ Implementar campañas promocionales en meses de baja demanda.
 | Belleza     | S/ 312,072.66 |
 | Deportes    | S/ 298,437.47 |
 
-
-## Recomendación:
+Recomendación:
 Mantener stock óptimo en Hogar y Juguetes.
 Impulsar ventas de categorías con menor desempeño a través de promociones o bundles.
 
