@@ -1,4 +1,4 @@
-# Análisis de Datos de Ventas
+# Análisis de ventas para optimizar la rentabilidad y toma de decisiones comerciales
 
 ## Descripción del Proyecto
 Este proyecto realiza un análisis de un conjunto de datos de ventas con el objetivo de identificar tendencias, productos más vendidos, desempeño de tiendas y comportamiento de las ventas a lo largo del tiempo.  
