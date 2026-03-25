@@ -3,6 +3,9 @@
 ## Descripción del Proyecto
 Este proyecto realiza un análisis de un conjunto de datos de ventas con el objetivo de identificar tendencias, productos más vendidos, desempeño de tiendas y comportamiento de las ventas a lo largo del tiempo.  
 El propósito es obtener insights que puedan apoyar la toma de decisiones comerciales.
+## Objetivo
+Analizar el comportamiento de las ventas para identificar productos más rentables, desempeño de tiendas y oportunidades de mejora en la estrategia comercial.
+
 
 ## Dataset
 El conjunto de datos contiene **500 registros de ventas** con la siguiente información:
@@ -25,16 +28,11 @@ El conjunto de datos contiene **500 registros de ventas** con la siguiente infor
 - Tendencia de ventas por mes
 
 ## Herramientas utilizadas
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+- Python (Pandas, Numpy, Matplotlib)
 - Excel
 
-## Principales hallazgos
-El análisis permitió identificar:
-- Las tiendas con mayor volumen de ventas
-- Los productos con mayor demanda
-- Tendencias de ventas a lo largo de los meses
-- Diferencias en el desempeño de los vendedores
+## Análisis realizados
+- Ventas totales y ticket promedio
+- Análisis por tienda y vendedor
+- Identificación de productos más rentables
+- Tendencias temporales de ventas
